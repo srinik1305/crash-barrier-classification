@@ -4,3 +4,11 @@ mlruns/
 __pycache__/
 processed_dataset/
 /processed_dataset
+
+mlflow.db
+*.pth
+*.png
+*.csv
+*.txt
+images/
+processed_dataset/
